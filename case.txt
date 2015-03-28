@@ -1,0 +1,11 @@
+Here is the scenario:
+Imagine that you work for a consulting firm and you are pitching a potential client – a national restaurant franchise. They have given you a sample set of their data and asked you to come back in a few days to share your findings. If the team is satisfied with your presentation, the company will award your firm a multi-million dollar consulting engagement.  You’ve done some research and have learned that all of the executives at this firm are known to be very analytical managers, although to your knowledge none have a formal education in applied mathematics or statistics.
+ 
+Attached are four files:  
+ 
+The “product sales” file contains unit-level sales data for the month of January.
+The “demographics” file has data for the markets in which each store operates.
+Finally, the “dayparts” file has total sales per store by day as well each “sales cycle”.
+The “weather” file is a feed for the weather January. Joe’s assistant pulled it for you, but now he’s on vacation so the field headings may be hard to decipher.
+ 
+Do not feel that you need to use all of this data in your presentation.
